@@ -91,6 +91,7 @@ footer {
  justify-content: center;
  margin: 0 auto;
  margin-top: 3rem;
+	margin-bottom: 5rem;
 }
 .b-w{
  display: flex;
@@ -98,7 +99,7 @@ footer {
  margin: 0 auto;
 
 }
-@media only screen and (max-width: 576px) {
+@media only screen and (max-width: 770px) {
 .wifi-canvas{
  display: flex;
  justify-content: center;

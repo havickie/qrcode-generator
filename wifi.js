@@ -14,7 +14,7 @@ function generateQrCode() {
   new QRious({
     element: document.getElementById('qrcode'),
     value: getQrCodeValue(),
-    size: 200,
+    size: 300,
   });
 }
 
